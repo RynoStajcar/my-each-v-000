@@ -5,5 +5,3 @@ def my_each(words)
     count+1
   end
 end
-
-my_each() {|i| i}
